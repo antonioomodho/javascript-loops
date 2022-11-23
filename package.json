@@ -1,0 +1,16 @@
+{
+  "name": "javascript-loops",
+  "version": "1.0.0",
+  "description": "loops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loops",
+    "for",
+    "while"
+  ],
+  "author": "antoniolombado",
+  "license": "ISC"
+}
